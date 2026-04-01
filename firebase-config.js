@@ -1,4 +1,4 @@
-const firebaseConfig = {
+const FIREBASE_CONFIG = {
   apiKey: "AIzaSyDNKZkbGhS_lZ8NYGREaWvFQYRRwZ-nb6o",
   authDomain: "cooters-open-championship.firebaseapp.com",
   projectId: "cooters-open-championship",
